@@ -1,0 +1,6 @@
+.idea
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-react-closure-sample
+bazel-testlogs
